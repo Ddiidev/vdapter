@@ -1,7 +1,7 @@
 
 # vdapter
 
-vdapter is an adapter from one structure to another data structure.
+vdapter is a very simple adapter that adapts one structure to another data structure.
 
 
 ## Install
